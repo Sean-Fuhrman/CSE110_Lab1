@@ -6,9 +6,10 @@
 
 ## Sections
 - [Profile](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#profile)
-- [Activites/Interests] (https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
+- [Activites/Interests](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
 - [Socials](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
 - [Favorite Code/Quote](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
+- [Todo List](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#todolist)
 
 ## Profile
 - **Major:** Computer Engineering
@@ -43,3 +44,8 @@ while(i > 0) {
 
 
 [Go To ReadMe](README.md)
+
+### Todo List
+- [x] CSE 135 HW1
+- [ ] Grocies
+- [ ] Laundry
