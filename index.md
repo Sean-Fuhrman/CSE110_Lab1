@@ -42,10 +42,9 @@ while(i > 0) {
 >  y=mx + b - Sean Fuhrman 2023
 
 
-
-[Go To ReadMe](README.md)
-
 ### Todo List
 - [x] CSE 135 HW1
 - [ ] Grocies
 - [ ] Laundry
+  
+[Go To ReadMe](README.md)
