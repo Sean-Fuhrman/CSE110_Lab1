@@ -9,7 +9,7 @@
 - [Activites/Interests](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
 - [Socials](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
 - [Favorite Code/Quote](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
-- [Todo List](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#todolist)
+- [Todo List](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/vscode-ui/index.md#todo-list)
 
 ## Profile
 - **Major:** Computer Engineering
@@ -22,7 +22,7 @@
 3. *Hiking*
 
 ## Socials
-- [Instagram]([Instagram](https://www.instagram.com/sean.fuhrman/))
+- [Instagram](https://www.instagram.com/sean.fuhrman/)
 - [Github](https://github.com/Sean-Fuhrman)
 - [Email](mailto:seantfuhrman@gmail.com)
 
