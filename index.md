@@ -5,10 +5,11 @@
      height="300px" />
 
 ## Sections
-- Profile
-- Activites/Interests
-- Socials
-- Favorite Code/Quote
+- [Profile](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#profile)
+- [Activites/Interests](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
+- [Socials](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
+- [Favorite Code/Quote](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/main/index.md#activitesinterests)
+- [Todo List](https://github.com/Sean-Fuhrman/CSE110_Lab1/blob/vscode-ui/index.md#todo-list)
 
 ## Profile
 - **Major:** Computer Engineering
@@ -21,8 +22,8 @@
 3. *Hiking*
 
 ## Socials
-- [TO DO: INSTAGRAM LINK](Instagram)
-- [TO DO: GITHUB LINK](Github)
+- [Instagram](https://www.instagram.com/sean.fuhrman/)
+- [Github](https://github.com/Sean-Fuhrman)
 - [Email](mailto:seantfuhrman@gmail.com)
 
 ## Favorite Code/Quote
@@ -41,5 +42,9 @@ while(i > 0) {
 >  y=mx + b - Sean Fuhrman 2023
 
 
-
+### Todo List
+- [x] CSE 135 HW1
+- [ ] Grocies
+- [ ] Laundry
+  
 [Go To ReadMe](README.md)
